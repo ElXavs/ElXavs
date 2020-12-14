@@ -2,9 +2,9 @@
 
 ### Frontend developer with React. 
 ### I have a great passion for technology and making the world better 🦦
-- 💮Getting better and better with Platzi Master.
-- 🦆Developing and learning react.js deeply 
-- 🦔You can call me Xavs or Xavi
+- 💮 Getting better and better with Platzi Master.
+- 🦆 Developing in react.js and learning deeply.
+- 🦔 You can call me Xavs or Xavi.
 
 ### Never stop learning, my dudes 🐸🚀
 
